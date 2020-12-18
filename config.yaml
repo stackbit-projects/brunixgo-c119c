@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Brunix_Go
-    tagline: Header Tagline
+    tagline: GoLang Developer
     profile_img: images/avatar.png
     background: dark
     has_nav: true
