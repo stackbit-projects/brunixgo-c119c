@@ -5,7 +5,7 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: Brunix_go
+    title: Brunix_Go
     tagline: Header Tagline
     profile_img: images/avatar.png
     background: dark
