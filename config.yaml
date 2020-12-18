@@ -29,7 +29,7 @@ params:
     has_social: true
     social_links:
       - label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/@BQuindeler'
         style: icon
         icon_class: fa-twitter
         new_window: true
