@@ -49,7 +49,7 @@ params:
         icon_class: fa-linkedin
         new_window: true
       - label: DEV
-        url: 'https://dev.to/'
+        url: 'https://dev.to/brunoquindeler'
         style: icon
         icon_class: fa-dev
         new_window: true
