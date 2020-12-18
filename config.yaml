@@ -7,7 +7,7 @@ params:
   header:
     title: Brunix_Go
     tagline: GoLang Developer
-    profile_img: images/perfilTrello.jpg
+    profile_img: images/perfildogs.jpg
     background: dark
     has_nav: true
     nav_links:
